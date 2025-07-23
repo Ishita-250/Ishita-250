@@ -18,14 +18,18 @@
 
 ### 🔧 Tools & Technologies
 •⁠  ⁠Programming: ⁠ Python ⁠, ⁠ SQL  ⁠
+
 •⁠  ⁠Libraries: ⁠ Pandas ⁠, ⁠ NumPy ⁠, ⁠ Matplotlib ⁠, ⁠ Seaborn ⁠,Scikit-learn
-•⁠  ⁠Visualization: ⁠ Power BI ⁠
+
+•⁠  ⁠Visualization: ⁠ Power BI
+⁠
 •⁠  ⁠Databases: ⁠ MySQL ⁠
 
 ---
 
 ### 📫 How to reach me:
 •⁠  ⁠📧 Email: ishita.sharma2705@gmail.com
+
 •⁠  ⁠💼 LinkedIn: https://www.linkedin.com/in/ishita-sharma-b945082b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
