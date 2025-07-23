@@ -6,9 +6,13 @@
 
 ### 🚀 About Me
 •⁠  ⁠📊 I enjoy working with data to uncover trends and support data-driven decision making.
+
 •⁠  ⁠🛠️ Proficient in *SQL, Python (Pandas, NumPy, Matplotlib,seaborn), and **Power BI*.
+
 •⁠  ⁠📚 Currently learning advanced data visualization techniques and machine learning basics.
+
 •⁠  ⁠🤝 Looking to collaborate on data cleaning,  and dashboarding projects.
+
 
 ---
 
